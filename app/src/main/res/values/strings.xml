@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MapSearch</string>
+    <string name="hint_text_input">input address or coordinates</string>
+    <string name="find_button">Find</string>
+</resources>
